@@ -1,6 +1,7 @@
 {
   "name": "abandoned-checkouts",
   "version": "1.0.0",
+  "license": "(BSD-3-Clause AND CC-BY-4.0)",
   "private": true,
   "scripts": {
     "dev": "pnpm generate && NODE_OPTIONS='--inspect' next dev",
