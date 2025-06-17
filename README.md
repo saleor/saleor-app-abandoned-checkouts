@@ -22,6 +22,9 @@
   <a href="https://githubbox.com/saleor/saleor-app-template">🔎 Explore Code</a>
 </div>
 
+> [!WARNING]
+> This repository is not longer maintained - go to https://github.com/saleor/examples for Saleor examples
+
 ## About
 
 ### What is Saleor App
